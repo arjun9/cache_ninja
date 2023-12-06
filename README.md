@@ -1,3 +1,7 @@
+<div>
+  <img src="./assets/logo.png" alt="Cache Ninja Logo" width="100" style="border-radius: 20px; display:inline; vertical-align: middle;">
+</div> <br>
+
 # Cache Ninja
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Downloads](https://img.shields.io/gem/dt/cache_ninja.svg)](https://rubygems.org/gems/cache_ninja)
