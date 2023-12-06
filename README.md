@@ -1,6 +1,6 @@
 <div>
-  <img src="./assets/logo.png" alt="Cache Ninja Logo" width="100" style="border-radius: 20px; display:inline; vertical-align: middle;">
-</div> <br>
+  <img src="./assets/logo.png" alt="Cache Ninja Logo" width="200" style="border-radius: 20px; display:inline; vertical-align: middle;">
+</div>
 
 # Cache Ninja
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
